@@ -36,6 +36,6 @@
 
 
 
-### [<-- Back](https://github.com/inspiradanacomputacao/wonderwoman-frontend)
+### [<-- Voltar](https://github.com/inspiradanacomputacao/wonderwoman-frontend)
 
 

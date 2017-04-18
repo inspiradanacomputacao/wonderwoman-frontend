@@ -31,6 +31,6 @@
 - [ ] [15. Herança - Parte 2](https://youtu.be/hDhoO86cfh8)
 
 
-### [<-- Back](https://github.com/inspiradanacomputacao/wonderwoman-frontend)
+### [<-- Voltar](https://github.com/inspiradanacomputacao/wonderwoman-frontend)
 
 
