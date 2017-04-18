@@ -1,7 +1,7 @@
 # [You Dont Know JS - Escopos e Closures - Kyle Simpson](https://github.com/cezaraugusto/You-Dont-Know-JS/tree/portuguese-translation/scope%20%26%20closures)
 
 
-* [ ] [Introdução](https://shanehudson.net/2014/06/03/foreword-dont-know-js/)(por [Shane Hudson](https://github.com/shanehudson))
+* [ ] [Introdução](https://shanehudson.net/2014/06/03/foreword-dont-know-js/) (por [Shane Hudson](https://github.com/shanehudson))
 * [ ] [Prefácio](https://github.com/cezaraugusto/You-Dont-Know-JS/blob/portuguese-translation/preface.md)
 * [ ] [Capítulo 1: O que é um Escopo?](https://github.com/cezaraugusto/You-Dont-Know-JS/blob/portuguese-translation/scope%20%26%20closures/ch1.md)
 	- [ ] Compilador (Teoria)
